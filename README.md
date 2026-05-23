@@ -1,4 +1,5 @@
 # No Trampling
+modrinth page: https://modrinth.com/mod/no-trample-mod
 
 Fabric mod that prevents farmland from being trampled into dirt.
 
